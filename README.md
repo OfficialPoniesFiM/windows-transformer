@@ -11,4 +11,4 @@ Make sure you run this as administrator.
 - Installs chocolatey
 - Installs sudo
 - Installs a chocolatey GUI
-- Adds keyboard binds that most distros use
+- Adds/changes keyboard binds that most distros use
