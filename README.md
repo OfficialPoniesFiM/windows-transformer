@@ -1,5 +1,6 @@
 # windows-transformer
 A command prompt script to make things work more like a majority of Linux distros.  
+This mainly involves Chocolatey.  
 Make sure you run this as administrator.  
 This is intended to be ran on Windows 7, 8, 8.1, or 10.  
 
