@@ -1,5 +1,5 @@
 # windows-transformer
-A command prompt script to make things work more like a lot of Linux distros.  
+A command prompt script to make things work more like a majority of Linux distros.  
 Make sure you run this as administrator.  
 ## To run the script:  
 1. Right click on the file  
