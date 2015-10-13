@@ -1,6 +1,8 @@
 # windows-transformer
 A command prompt script to make things work more like a majority of Linux distros.  
 Make sure you run this as administrator.  
+This is intended to be ran on Windows 7, 8, 8.1, or 10.  
+
 ## To run the script:  
 1. Right click on the file  
 2. Click on "Run as Administrator"  
