@@ -12,3 +12,11 @@ echo If not, exit this script. Otherwise, press enter.
 pause
 :: Chocolatey will be installed to work as a package manager
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
+:: We will now install necessary packages.
+choco install chocolateygui
+choco install sudo
+choco install wget
+choco install win-xkill
+choco install notepadplusplus.install
+choco install nano
+choco install vim
