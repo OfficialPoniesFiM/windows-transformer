@@ -20,3 +20,10 @@ choco install win-xkill
 choco install notepadplusplus.install
 choco install nano
 choco install vim
+choco install 7zip.install
+choco install vlc
+choco install 7zip.commandline
+choco install libreoffice
+choco install python
+choco install putty
+choco install cyg-get
