@@ -14,16 +14,16 @@ pause
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
 :: We will now install necessary packages.
 choco install chocolateygui -y
-choco install sudo
-choco install wget
-choco install win-xkill
-choco install notepadplusplus.install
-choco install nano
-choco install vim
-choco install 7zip.install
-choco install vlc
-choco install 7zip.commandline
-choco install libreoffice
-choco install python
-choco install putty
-choco install cyg-get
+choco install sudo -y
+choco install wget -y
+choco install win-xkill -y
+choco install notepadplusplus.install -y
+choco install nano -y
+choco install vim -y
+choco install 7zip.install -y
+choco install vlc -y
+choco install 7zip.commandline -y
+choco install libreoffice -y
+choco install python -y
+choco install putty -y
+choco install cyg-get -y
