@@ -14,4 +14,15 @@ This is intended to be ran on Windows 7, 8, 8.1, or 10.
 - Installs chocolatey
 - Installs sudo
 - Installs a chocolatey GUI
+- Installs wget
+- Installs win-xkill
+- Installs Notepad++
+- Installs nano
+- Installs vim
+- Installs 7zip
+- Installs VLC
+- Installs LibreOffice
+- Installs Python
+- Installs Putty
+- Installs cyg-get
 - Adds/changes keyboard binds that most distros use
