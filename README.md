@@ -26,3 +26,5 @@ This is intended to be ran on Windows 7, 8, 8.1, or 10.
 - Installs Putty
 - Installs cyg-get
 - Adds/changes keyboard binds that most distros use
+
+![Windows Logo](http://www.hardwaresecrets.com/wp-content/uploads/windows-logo-HS1.png)
